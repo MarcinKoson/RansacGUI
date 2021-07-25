@@ -1,7 +1,7 @@
 # Searching for similar objects using RANSAC 
 
 This is GUI application for my implementation of RANSAC  
-https://github.com/MarcinKoson/repo/
+https://github.com/MarcinKoson/Ransac
 
 It searches for similar objects on two pictures.
 
@@ -10,7 +10,7 @@ It searches for similar objects on two pictures.
 ## Installation
 
 Download installer from
-https://github.com/MarcinKoson/repo/releases
+https://github.com/MarcinKoson/RansacGUI/releases
 
 If you want to build it yourself you need Qt Creator (https://www.qt.io/)  
 and you must register library.  
